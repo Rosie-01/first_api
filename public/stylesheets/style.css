@@ -1,0 +1,22 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: linear-gradient(120deg, #00B7FF, #ffb700, #13e038e1);
+  background-repeat: no-repeat;
+  height: 100vh;
+  /* background-size: contain; */
+}
+
+a {
+  color: #00B7FF;
+}
+
+div{
+  max-width: 50%;
+  margin: auto;
+  border: 5px solid black;
+  text-align: center;
+  background-color: #fff;
+  
+}
+
